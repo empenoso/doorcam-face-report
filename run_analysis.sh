@@ -32,11 +32,8 @@
 
 set -e
 
-INPUT_VIDEO_DIR="/home/mike/Видео/ekat165_domofon" # . Путь к директории с видео
-OUTPUT_HTML_FILE="face_report_ekat165_domofon.html"
-
-# INPUT_VIDEO_DIR="/home/mike/Видео/ekat165" # . Путь к директории с видео
-# OUTPUT_HTML_FILE="face_report_ekat165.html"
+INPUT_VIDEO_DIR="/home/mike/Видео/perm_domofon" # . Путь к директории с видео
+OUTPUT_HTML_FILE="face_report_perm_domofon.html"
 
 VENV_DIR=".venv"
 
